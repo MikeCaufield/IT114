@@ -2,4 +2,6 @@
 ## Michael Caufield
 
 Edited via github.com
-Edited for Homework 1
+Edited for push on Homework 1
+
+Edited for pull on Homework 1
