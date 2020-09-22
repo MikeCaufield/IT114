@@ -19,12 +19,14 @@ public class Homework4JavaLoops {
          System.out.print(" ");
       }
       System.out.println("");
+      System.out.println("");
       Arrays.sort(numArray);                                             // sorts the array in numerical order
       System.out.print("The array sorted in numerical order is: ");      // outputs the array in (now) numerical order
       for(int j = 0; j < arrayLength; j++){
          System.out.print(numArray[j]);
          System.out.print(" ");                                          // prints the above statements
       }
+      System.out.println("");
       System.out.println("");
       System.out.print("The even numbers in the array are: ");           // tells the user which numbers are even throughout the array that they constructed
       for(int m = 0; m < arrayLength; m++){
