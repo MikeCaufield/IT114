@@ -30,7 +30,7 @@ public class Homework4JavaLoops {
       System.out.println("");
       System.out.print("The even numbers in the array are: ");           // tells the user which numbers are even throughout the array that they constructed
       for(int m = 0; m < arrayLength; m++){
-         if (numArray[m] % 2 == 0){                                      // checks to see if the number in question is divisible by 2, with a remainder of 0, 
+         if (numArray[m] % 2 == 0){                                      // checks to see if the integer in question is divisible by 2, with a remainder of 0, 
             System.out.print(numArray[m] + " ");                         // proving that it is an even number, prints these numbers separately 
          }
          else{
